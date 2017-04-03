@@ -1,0 +1,1 @@
+(postfix 3 1 nget 1 swap lt (10 lt (0) (mul) sel exec) (pop mul) sel exec)
